@@ -1,0 +1,1 @@
+9999999999{"name": "PyDispatcher", "version": "2.0.7", "summary": "Multi-producer multi-consumer in-memory signal dispatch system", "platform": "Any", "requires_dist": ["tox ; extra == 'dev'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

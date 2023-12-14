@@ -1,0 +1,1 @@
+9999999999{"name": "queuelib", "version": "1.6.2", "summary": "Collection of persistent (disk-based) and non-persistent (memory-based) queues", "platform": "Any", "requires_dist": null, "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}

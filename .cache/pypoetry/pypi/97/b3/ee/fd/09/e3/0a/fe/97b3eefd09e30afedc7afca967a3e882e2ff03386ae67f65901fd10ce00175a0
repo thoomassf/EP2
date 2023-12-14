@@ -1,0 +1,1 @@
+9999999999{"name": "itemloaders", "version": "1.1.0", "summary": "Base library for scrapy's ItemLoader", "platform": null, "requires_dist": ["w3lib (>=1.17.0)", "parsel (>=1.5.0)", "jmespath (>=0.9.5)", "itemadapter (>=0.1.0)"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}

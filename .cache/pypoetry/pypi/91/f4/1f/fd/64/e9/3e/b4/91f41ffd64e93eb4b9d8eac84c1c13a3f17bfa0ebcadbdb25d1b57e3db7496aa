@@ -1,0 +1,1 @@
+9999999999{"name": "requests-file", "version": "1.5.1", "summary": "File transport adapter for Requests", "platform": "", "requires_dist": ["requests (>=1.0.0)", "six"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

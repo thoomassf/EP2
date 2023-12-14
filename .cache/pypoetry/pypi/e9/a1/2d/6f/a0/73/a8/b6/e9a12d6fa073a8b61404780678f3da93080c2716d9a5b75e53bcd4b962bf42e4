@@ -1,0 +1,1 @@
+9999999999{"name": "parsel", "version": "1.8.1", "summary": "Parsel is a library to extract data from HTML and XML using XPath and CSS selectors", "platform": null, "requires_dist": ["cssselect (>=0.9)", "jmespath", "lxml", "packaging", "w3lib (>=1.19.0)", "typing-extensions ; python_version < \"3.8\""], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
